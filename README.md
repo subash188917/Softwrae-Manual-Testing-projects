@@ -5,8 +5,8 @@ This repository contains a list of all the projects completed during my manual t
 
 | Project Name | Description | Tools Used |
 |--------------|-------------|------------|
-| Project 1    | Tested a web application for functionality and usability. | Manual Testing,Test Plan,Test Cases,JIRA |
-
+| Project 1    | Tested a web application for functionality and usability-demo OpenCart. | Manual Testing,Test Plan,Test Cases,JIRA |
+| Project 2    | Tested a web application for functionality and usability-VMO website.   | Manual Testing,Test Plan,Test Cases,JIRA |
 
 
 ## Contributing
